@@ -1,0 +1,12 @@
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\bin\Debug\StationeryInventorySystem.exe.config
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\bin\Debug\StationeryInventorySystem.exe
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\bin\Debug\StationeryInventorySystem.pdb
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.csprojResolveAssemblyReference.cache
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.Properties.Resources.resources
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.csproj.GenerateResource.Cache
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.exe
+c:\users\rasitha\documents\visual studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.pdb
+C:\Users\Rasitha\Documents\Visual Studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.Current_Stock.resources
+C:\Users\Rasitha\Documents\Visual Studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.Issue_Order.resources
+C:\Users\Rasitha\Documents\Visual Studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.Main.resources
+C:\Users\Rasitha\Documents\Visual Studio 2015\Projects\StationeryInventorySystem\StationeryInventorySystem\obj\Debug\StationeryInventorySystem.SRN.resources
